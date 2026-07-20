@@ -25,4 +25,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Megavarman-SP/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0038-count-and-say](https://github.com/Megavarman-SP/Leetcode/tree/main/0038-count-and-say/) | Medium |
 <!---LeetCode Topics End-->
